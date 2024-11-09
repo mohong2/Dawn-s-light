@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "the-dawn-of-dawn",
+	"version": "${version}",
+	"name": "The dawn of dawn",
+	"description": "The dawn of dawn的重要模组,你要是敢把这模组删了你去玩鸡巴去",
+	"authors": [
+		"mohong"
+	],
+	"contact": {
+	},
+	"license": "MIT",
+	"icon": "assets/mohong/the-dawn-of-dawn/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"xzy.mohong.TheDawnOfDawn"
+		],
+		"fabric-datagen": [
+			"xzy.mohong.TheDawnOfDawnDataGenerator"
+		]
+	},
+	"mixins": [
+		"the-dawn-of-dawn.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "0.92.2+1.20.1",
+		"toughasnails": "*",
+		"sodium" : ">=0.5.8"
+	},
+	"suggests": {
+		"toughasnails": "*"
+	}
+}

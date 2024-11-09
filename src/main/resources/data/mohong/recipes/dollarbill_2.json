@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mohong:fifty_dollar_bill"
+    }
+  ],
+  "result": {
+    "item": "mohong:dollar_bill",
+    "count": 50
+  }
+}

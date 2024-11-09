@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "mc",
+  "category": "misc",
+  "experience": 10,
+  "cookingtime": 50,
+  "ingredient": {
+    "item": "minecraft:wheat_seeds"
+  },
+  "result": "minecraft:bone"
+}

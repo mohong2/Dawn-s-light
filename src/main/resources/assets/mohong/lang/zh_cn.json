@@ -1,0 +1,13 @@
+{
+    "item.mohong.dollar_bill": "1美元",
+    "item.mohong.fifty_dollar_bill": "50美元",
+    "item.mohong.five_dollar_bill": "5美元",
+    "item.mohong.hundred_dollar_bill": "100美元",
+    "item.mohong.dime": "1枚硬币",
+    "item.mohong.nickel": "5分镍币",
+    "item.mohong.penny": "1便士",
+    "item.mohong.quarter": "25分钱",
+    "item.mohong.ten_dollar_bill": "10美元",
+    "item.mohong.twenty_dollar_bill": "20美元",
+    "itemGroup.tutorial_group": "货币"
+}

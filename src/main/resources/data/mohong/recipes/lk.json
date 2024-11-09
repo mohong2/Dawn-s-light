@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:water"
+    }
+  },
+  "result": {
+    "item": "minecraft:crimson_stem",
+    "count": 1
+  }
+}

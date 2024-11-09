@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mc",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:emerald"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
+    "c": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:totem_of_undying",
+    "count": 1
+  }
+}

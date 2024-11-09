@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mc",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "result": {
+    "item": "minecraft:enchanted_golden_apple",
+    "count": 1
+  }
+}

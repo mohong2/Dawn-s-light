@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "mc",
+  "category": "misc",
+  "experience": 25,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "minecraft:redstone_torch"
+  },
+  "result": "minecraft:spider_eye"
+}

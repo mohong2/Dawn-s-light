@@ -1,0 +1,11 @@
+{
+    "quest_1": {
+      "sounds": [
+        {
+          "name":"mohong:quest_1",
+          "stream": true,
+          "volume": 10.0
+        }
+      ]
+  }
+}
