@@ -27,7 +27,11 @@ public class ModItems {
 
     public static final Item quarter = registerItem("quarter", new Item(new Item.Settings()));
 
+    public static final Item aurorean_crystal_ore_ingot = registerItem("aurorean_crystal_ore_ingot", new Item(new Item.Settings()));
 
+    public static final Item cold_ice_ore_ingot = registerItem("cold_ice_ore_ingot", new Item(new Item.Settings()));
+
+    public static final Item crimson_ore_ingot = registerItem("crimson_ore_ingot", new Item(new Item.Settings()));
 
     private static void addItemstoIG(FabricItemGroupEntries fabricItemGroupEntries) {
         fabricItemGroupEntries.add(dollar_bill);
@@ -40,7 +44,9 @@ public class ModItems {
         fabricItemGroupEntries.add(nickel);
         fabricItemGroupEntries.add(penny);
         fabricItemGroupEntries.add(quarter);
-
+        fabricItemGroupEntries.add(aurorean_crystal_ore_ingot);
+        fabricItemGroupEntries.add(cold_ice_ore_ingot);
+        fabricItemGroupEntries.add(crimson_ore_ingot);
     }
 
     private static Item registerItem(String name, Item item) {

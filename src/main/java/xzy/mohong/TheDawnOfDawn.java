@@ -7,8 +7,9 @@ import org.slf4j.LoggerFactory;
 import xzy.mohong.item.ModItemGroup;
 import xzy.mohong.item.ModItems;
 
+
 public class TheDawnOfDawn implements ModInitializer {
-	public static final String MOD_ID = "the-dawn-of-dawn";
+	public static final String MOD_ID = "mohong";
 
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.

@@ -9,5 +9,11 @@
     "item.mohong.quarter": "Quarter",
     "item.mohong.ten_dollar_bill": "Ten Dollar Bill",
     "item.mohong.twenty_dollar_bill": "Twenty Dollar Bill",
-    "itemGroup.tutorial_group": "Money"
+    "itemGroup.money_group": "Money",
+    "block.mohong.cold_ice_ore" : "Cold Ice Ore",
+    "block.mohong.aurorean_crystal_ore": "Aurorean Crystal Ore",
+    "block.mohong.crimson_ore": "Crimson Ore",
+    "item.mohong.aurorean_crystal_ore_ingo" : "Aurorean Crystal Ore Ingo",
+    "item.mohong.cold_ice_ore_ingot" : "Cold Ice Ore Ingo",
+    "item.mohong.crimson_ore_ingot" : "Crimson Ore Ingo"
 }

@@ -9,5 +9,12 @@
     "item.mohong.quarter": "25分钱",
     "item.mohong.ten_dollar_bill": "10美元",
     "item.mohong.twenty_dollar_bill": "20美元",
-    "itemGroup.tutorial_group": "货币"
+    "itemGroup.money_group": "货币",
+    "itemGroup.ore_group" : "矿石",
+    "block.mohong.cold_ice_ore": "寒冰矿石",
+    "block.mohong.aurorean_crystal_ore": "极光水晶矿石",
+    "block.mohong.crimson_ore": "赤红矿石",
+    "item.mohong.aurorean_crystal_ore_ingot" : "极光水晶锭",
+    "item.mohong.cold_ice_ore_ingot" : "寒冰锭",
+    "item.mohong.crimson_ore_ingot" : "赤红锭"
 }

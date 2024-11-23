@@ -1,0 +1,10 @@
+// 1.20.1	2024-11-23T17:53:15.2218787	The dawn of dawn/Tags for minecraft:block
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\fence_gates.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\fences.json
+96c689a78585fd1496247d707c394d2fa07b6435 data\mohong\tags\blocks\prospector_list.json
+f99f49e18eaafd19bf6800aabefe6e74993be961 data\minecraft\tags\blocks\needs_iron_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_stone_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\pickaxe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\walls.json
+efa109bc47176c5e9cafa1c718d46ad5c5fd69e6 data\fabric\tags\blocks\needs_tool_level_4.json
+0407b94153b2c1600fe43b463e5c4834763e4be3 data\minecraft\tags\blocks\needs_diamond_tool.json
