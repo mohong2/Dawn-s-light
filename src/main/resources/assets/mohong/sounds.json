@@ -1,11 +1,86 @@
 {
-    "quest_1": {
+    "qu_54": {
       "sounds": [
         {
-          "name":"mohong:quest_1",
+          "name":"mohong:5410A49AA4CE2EB6",
           "stream": true,
           "volume": 10.0
         }
       ]
+  },
+
+  "qub_0":{
+    "sounds": [
+      {
+        "name":"mohong:0B7F22E11EA31C90",
+        "stream": true,
+        "volume": 10.0
+      }
+    ]
+  },
+
+  "quf_2":{
+    "sounds": [
+      {
+        "name":"mohong:2FC95E07F417699E",
+        "stream": true,
+        "volume": 10.0
+      }
+    ]
+  },
+
+  "qu_39":{
+    "sounds": [
+      {
+        "name":"mohong:3944A4AE8D196579",
+        "stream": true,
+        "volume": 10.0
+      }
+    ]
+  },
+  "qu_62":{
+    "sounds": [
+      {
+        "name":"mohong:62392BF094794525",
+        "stream": true,
+        "volume": 10.0
+      }
+    ]
+  },
+  "qu_67":{
+    "sounds": [
+      {
+        "name":"mohong:67929B067998F6BD",
+        "stream": true,
+        "volume": 10.0
+      }
+    ]
+  },
+    "qu_30":{
+    "sounds": [
+      {
+        "name":"mohong:3036422638AE4450",
+        "stream": true,
+        "volume": 10.0
+      }
+    ]
+  },
+  "qu_0":{
+    "sounds": [
+      {
+        "name":"mohong:0B89312D8C2AC029",
+        "stream": true,
+        "volume": 10.0
+      }
+    ]
+  },
+  "qu_16":{
+    "sounds": [
+      {
+        "name":"mohong:16267B5EBBDFB509",
+        "stream": true,
+        "volume": 10.0
+      }
+    ]
   }
 }

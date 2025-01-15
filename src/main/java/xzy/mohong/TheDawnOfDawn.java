@@ -7,7 +7,6 @@ import org.slf4j.LoggerFactory;
 import xzy.mohong.item.ModItemGroup;
 import xzy.mohong.item.ModItems;
 
-
 public class TheDawnOfDawn implements ModInitializer {
 	public static final String MOD_ID = "mohong";
 
@@ -25,5 +24,5 @@ public class TheDawnOfDawn implements ModInitializer {
 		LOGGER.info("Hello Fabric world!");
 		ModItems.registerModitems();
 		ModItemGroup.registerModItemGroups();
-	}
+    }
 }

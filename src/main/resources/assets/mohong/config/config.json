@@ -1,0 +1,6 @@
+{
+  "difficulty": {
+    "mode": "NORMAL",
+    "allowed_modes": ["NORMAL", "HARD"]
+  }
+}
