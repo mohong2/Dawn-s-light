@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "mc",
+  "category": "food",
+  "experience": 7.5,
+  "cookingtime": 75,
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": "minecraft:cooked_porkchop"
+}

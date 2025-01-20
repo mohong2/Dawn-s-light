@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "mc",
+  "category": "food",
+  "experience": 1.5,
+  "cookingtime": 75,
+  "ingredient": {
+    "item": "minecraft:potion"
+  },
+  "result": "toughasnails:purified_water_bottle"
+}

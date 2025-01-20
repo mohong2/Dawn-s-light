@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "mc",
+  "category": "food",
+  "experience": 1.5,
+  "cookingtime": 50,
+  "ingredient": {
+    "item": "minecraft:potion"
+  },
+  "result": "toughasnails:purified_water_bottle"
+}

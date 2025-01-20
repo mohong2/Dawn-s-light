@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "mc",
+  "category": "food",
+  "experience": 8,
+  "cookingtime": 50,
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": "minecraft:cooked_porkchop"
+}

@@ -49,10 +49,10 @@
   "text.autoconfig.steves_realistic_sleep.option.tickDelay": "Tick 延迟",
   "text.autoconfig.steves_realistic_sleep.option.tickDelay.@Tooltip": "为每个tick添加一个tick延迟量，这样时间会变慢",
   "steves_realistic_sleep.text.sleep_message": "%d/%d 名玩家正在睡觉 ",
-  "steves_realistic_sleep.text.not_enough_players_sleeping_message": "%d/%d 名玩家当前正在睡觉. %d/%d 名玩家还需要再睡 %秒",
+  "steves_realistic_sleep.text.not_enough_players_sleeping_message": "%d/%d 名玩家当前正在睡觉. %d/%d 名玩家还需要再睡 %s秒",
   "steves_realistic_sleep.text.night": "现在时间:夜晚时分",
   "steves_realistic_sleep.text.day": "现在时间:白天",
   "steves_realistic_sleep.text.thunderstorm": "雷雨天",
-  "steves_realistic_sleep.text.time_until_dawn": " (到白天还有: %d秒)",
-  "steves_realistic_sleep.text.time_until_dusk": " (到黄昏还有: %d秒)"
+  "steves_realistic_sleep.text.time_until_dawn": " (到白天还有: %ds秒)",
+  "steves_realistic_sleep.text.time_until_dusk": " (到黄昏还有: %ds秒)"
 }
